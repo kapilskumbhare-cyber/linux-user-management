@@ -106,5 +106,3 @@ This project simulates onboarding users in a Linux-based production environment,
 ## 👤 Author
 
 kapil kumbhare
-
-Focused on building practical Linux and DevOps skills through hands-on projects.
