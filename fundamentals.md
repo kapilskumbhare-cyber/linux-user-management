@@ -10,7 +10,7 @@ Groups allow multiple users to share access to files and directories.
 
 - useradd → Create a new user
 - passwd → Set or change password
-- usermod → Modify user (add to group)
+- usermod → Modify user / add to group
 - groupadd → Create group
 - chage → Manage password expiry
 - sudo / visudo → Provide controlled admin access
